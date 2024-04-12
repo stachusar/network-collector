@@ -1,4 +1,4 @@
-## Instrukcja Obsługi [Skryptu Pythonowego do Przetwarzania Danych](https://projects.task.gda.pl/l.stasiuk/spub_stat/-/blob/main/Spuber.py)
+## Instrukcja Obsługi [Skryptu Pythonowego do Przetwarzania Danych](https://github.com/stachusar/network-collector/blob/main/spuber.py)
 #### Spis Treści
 1. [Przegląd Skryptu](#1-przegląd-skryptu)
 2. [Wymagania](#2-wymagania)
