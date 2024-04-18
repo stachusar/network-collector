@@ -1,5 +1,5 @@
 ## Instrukcja Obsługi [Skryptu Pythonowego do Przetwarzania Danych](https://github.com/stachusar/network-collector/blob/main/spuber.py)
-IF YOU WANT TO READ IN ENGLISH [click here]()
+IF YOU WANT TO READ IN ENGLISH [click here](https://github.com/stachusar/network-collector/blob/main/README_EN.md)
 #### Spis Treści
 1. [Przegląd Skryptu](#1-przegląd-skryptu)
 2. [Wymagania](#2-wymagania)
